@@ -178,7 +178,7 @@ services:
       - DRONE_SECRET=${DRONE_SECRET}
 ```
 
-Los administradores de Drone pueden ser enumerados en tu configucación.
+Los administradores de Drone pueden ser enumerados en tu configuración.
 
 ```diff
 services:
